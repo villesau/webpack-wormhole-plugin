@@ -1,0 +1,17 @@
+{
+  "name": "webpack-wormhole-plugin",
+  "version": "1.0.0",
+  "description": "Inject text dynamically to the destination files straight from the webpack conf. great if you want to inject some text/logic, or want to add some build information.",
+  "main": "index.js",
+  "dependencies": {
+    "webpack-core": "^0.6.8"
+  },
+  "devDependencies": {},
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/villesau/webpack-wormhole-plugin"
+  },
+  "author": "Ville Saukkonen",
+  "license": "MIT"
+}
